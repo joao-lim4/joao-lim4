@@ -1,7 +1,7 @@
 ### ¿éfac mu iaV
 
 - ☕ Olã!! 👋 Eu sou o Lima e seja muito bem-vindo ao meu github!!
-- 💻 Full Stack Develloper na [Worktab](https://worktab.com.br)
+- 💻 Full Stack Developer na [Worktab](https://worktab.com.br)
 - 📗 Estudando desenvolvimento de jogos utilizando a Unity e C#!
 - ⚙️ Trabalhando no desenvolvimento do NPM Package [Validate-flag](https://www.npmjs.com/package/validate-flag). Rescrevendo a lib em TypeScript!
 
