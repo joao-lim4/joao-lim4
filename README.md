@@ -2,15 +2,17 @@
 
 - ☕ Olã!! 👋 Eu sou o Lima e seja muito bem-vindo ao meu github!!
 - 💻 Full Stack Developer na [PlanetFone](https://planetfone.com.br)
-- 📗 Estudando desenvolvimento de jogos utilizando a Unity e C#!
+- 📗 Estudando desenvolvimento android nativo 🤖
 
 
 ##
 
 <div>
   <a href="https://github.com/joao-lim4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-lim4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-lim4&layout=compact&langs_count=7&theme=dracula"/>
+   <div style="display: inline_block">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-lim4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-lim4&layout=compact&langs_count=7&theme=dracula"/>  
+   </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
