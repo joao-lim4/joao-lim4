@@ -1,7 +1,7 @@
 ### ¿éfac mu iaV
 
 - ☕ Olã!! 👋 Eu sou o Lima e seja muito bem-vindo ao meu github!!
-//- 💻 Full Stack Developer na [PlanetFone](https://planetfone.com.br)
+- 💻 Full Stack Developer na [Framework]()
 - 📗 Estudando desenvolvimento android nativo 🤖
 
 
