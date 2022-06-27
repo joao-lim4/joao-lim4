@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
    <a href="https://www.npmjs.com/~pacoquiteiro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=npm&logo=npm&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="npm logo"  />
+    <img src="https://img.shields.io/static/v1?message=npm&logo=npm&label=&color=fafafa&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="npm logo"  />
   </a>
 </div>
 
@@ -55,5 +55,3 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=joao-lim4.joao-lim4&"  />
 
 ###
-Profile Readme Generator
-https://profile-readme-generator.com
