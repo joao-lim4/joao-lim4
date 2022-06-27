@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">☕ Olã!! 👋 Eu sou o Lima e seja muito bem-vindo ao meu github!!<br>💻 Full Stack Developer na Framework<br>📗 Estudando desenvolvimento android nativo 🤖</p>
+<h3 align="center">☕ Olá!!</h3>
+<h3 align="center">👋 Eu sou o Lima e seja muito bem-vindo ao meu github!! </h3>
+
+<ul>
+  <li>💻 Full Stack Developer na Framework </li>
+  <li>📗 Estudando desenvolvimento android nativo 🤖</li>
+</ul>
 
 ###
 
