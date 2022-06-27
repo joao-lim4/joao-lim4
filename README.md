@@ -41,6 +41,9 @@
   <a href="mailto:lima.devs@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
+   <a href="https://www.npmjs.com/~pacoquiteiro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=npm&logo=npm&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="npm logo"  />
+  </a>
 </div>
 
 ###
